@@ -1,0 +1,59 @@
+.block8 {
+    background: linear-gradient(229.32deg, #6888FF 12.77%, #5E80FF 73.11%);
+    text-align: center;
+    padding: 92px;
+}
+.plan {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 12px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.block8 h2 {
+    margin: 0;
+    margin-top: 16px;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 48px;
+    font-family: 'Quicksand', sans-serif;
+    line-height: 60px;
+    color: #FFFFFF;
+}
+.block8 p {
+    margin-top: 28px;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 29px;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+}
+.block8 button {
+    margin-top: 28px;
+}
+.btn1 {
+    width: 130.08px;
+    height: 43px;
+    border: none;
+    border-radius: 2px;
+    background: #FFFFFF;
+    box-shadow: 0px 5px 15px #6480E8;
+    color: #565F82;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 16px;
+}
+.btn2 {
+    width: 155px;
+    height: 43px;
+    border: 1px solid #A0B4FF;
+    box-sizing: border-box;
+    border-radius: 2px;
+    background: none;
+    color: #C7D3FF;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 16px;
+}

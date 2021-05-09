@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+.block3 {
+    background-image: url('./images/clouds.png');
+    width: 1441px;
+    height: 695px;
+    padding-top: 171px;
+}
+.block3 h2 {
+    margin: 0;
+    margin-top: 20px;
+    text-align: center;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 30px;
+    color: #3D4F9F;
+}
+.about {
+    text-align: center;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 12px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #3D4F9F;
+}
+.render {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 85px;
+}
+.render img {
+    width: 69px;
+    height: 69px;
+}
+.render h3 {
+    margin: 0;
+    padding-top: 33px;
+    margin-left: -30px;
+    font-weight: bold;
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+    line-height: 25px;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #1f50cc;
+}
+.text {
+    width: 140px;
+    height: 102px;
+    margin: 0;
+    padding-top: 20px;
+    margin-left: -30px;
+    font-style: normal;
+    font-weight: 600;
+    font-family: 'Roboto', sans-serif;
+    font-size: 11px;
+    line-height: 19px;
+    text-align: center;
+    color: #ADB3CB;
+}
+.btn {
+    display: flex;
+    margin-left: 500px;
+    padding-top: 92px;
+}
+.btn button {
+    width: 113px;
+    height: 43px;
+    border-radius: 2px;
+    border: none;
+}
+.btn1 {
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 16px;
+    background: #FFD7D7;
+    color: #D43F3F;
+}
+.btn2 {
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 16px;
+    background: #D2E1FF;
+    color: #3A79FF;
+}
+.or hr {
+    width: 15px;
+    height: 0px;
+    margin-left: 16px;
+    margin-right: 16px;
+}
+.or {
+    display: flex;
+    color: #ADB3CB;
+    margin-right: 16px;
+}

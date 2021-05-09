@@ -1,0 +1,38 @@
+.text {
+    list-style: none;
+    margin-left: 76px;
+    margin-top: 10px;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 15px;
+    letter-spacing: 0.05em;
+    color: #6a96f5;
+}
+ul {
+    display: flex;
+    justify-content: center;
+}
+li {
+    list-style: none;
+}
+.logo img {
+    width: 26px;
+    height: 26px;
+}
+.social img{
+    width: 16px;
+    height: 13px;
+    margin-left: 20px;
+}
+.social {
+    margin-left: 30px;
+}
+.btn1 {
+    width: 113px;
+    height: 43px;
+    margin-left: 20px;
+    background: #D2E1FF;
+    color: #5484e6;
+    border: none;
+    border-radius: 2px;
+}

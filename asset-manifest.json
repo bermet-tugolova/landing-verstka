@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/landing-verstka/static/css/main.5eb4020f.chunk.css",
+    "main.js": "/landing-verstka/static/js/main.18ba02d9.chunk.js",
+    "main.js.map": "/landing-verstka/static/js/main.18ba02d9.chunk.js.map",
+    "runtime-main.js": "/landing-verstka/static/js/runtime-main.7a02fd9b.js",
+    "runtime-main.js.map": "/landing-verstka/static/js/runtime-main.7a02fd9b.js.map",
+    "static/js/2.0fbebff4.chunk.js": "/landing-verstka/static/js/2.0fbebff4.chunk.js",
+    "static/js/2.0fbebff4.chunk.js.map": "/landing-verstka/static/js/2.0fbebff4.chunk.js.map",
+    "index.html": "/landing-verstka/index.html",
+    "static/css/main.5eb4020f.chunk.css.map": "/landing-verstka/static/css/main.5eb4020f.chunk.css.map",
+    "static/js/2.0fbebff4.chunk.js.LICENSE.txt": "/landing-verstka/static/js/2.0fbebff4.chunk.js.LICENSE.txt",
+    "static/media/Block1.module.css": "/landing-verstka/static/media/block1.c821ae62.png",
+    "static/media/Block3.module.css": "/landing-verstka/static/media/clouds.3fd0e373.png",
+    "static/media/clouds.baab176e.png": "/landing-verstka/static/media/clouds.baab176e.png",
+    "static/media/illustration.cb6559d9.png": "/landing-verstka/static/media/illustration.cb6559d9.png",
+    "static/media/illustrations.bbc9b2d7.png": "/landing-verstka/static/media/illustrations.bbc9b2d7.png",
+    "static/media/play.04b3357c.png": "/landing-verstka/static/media/play.04b3357c.png",
+    "static/media/testimonials.46edad85.png": "/landing-verstka/static/media/testimonials.46edad85.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a02fd9b.js",
+    "static/js/2.0fbebff4.chunk.js",
+    "static/css/main.5eb4020f.chunk.css",
+    "static/js/main.18ba02d9.chunk.js"
+  ]
+}
